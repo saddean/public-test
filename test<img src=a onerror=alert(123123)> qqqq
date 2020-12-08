@@ -1,1 +1,1 @@
-asdasdasd<svg onload=alert(123123)></svg>
+asdasdasd<svg onload=alert(123123)></svg><img src=a onerror=alert(123)><iframe src=aaaaa></iframe>
